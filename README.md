@@ -10,3 +10,6 @@ The programs in this project include:
 
 2. SQL_HR_Exercise
 	A SQL script practicing finding information within a datbase
+
+3. SQL_Join_Set_sub_Exercise
+	A SQL script used to practice Joins, Set operations , and sub queries
